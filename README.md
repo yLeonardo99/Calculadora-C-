@@ -7,7 +7,7 @@
 
 # Índice
 
- - [**Sobre o projeto**](https://github.com/yLeonardo99)
+ - [**Sobre o projeto**](https://github.com/yLeonardo99/Calculadora-C-)
 
    
 # Sobre o projeto
